@@ -409,7 +409,7 @@ body {
   height: 448px;
   margin-top: 28px;
   border-radius: 20px;
-  background-image: url(/img/nft.jpg);
+  background-image: url(../img/nft.jpg);
 }
 
 .nft__block_bottom {
@@ -574,7 +574,7 @@ body {
   right: -35px;
   width: 24px;
   height: 24px;
-  background: url(/img/arrow.svg);
+  background: url(../img/arrow.svg);
 }
 .auctions {
   display: -webkit-box;
@@ -1003,7 +1003,7 @@ body {
   left: 20px;
   width: 24.362px;
   height: 24px;
-  background-image: url(/img/discover/filter.svg);
+  background-image: url(../img/discover/filter.svg);
 }
 @media (max-width: 600px) {
   .discover-block__filter {
@@ -1036,7 +1036,7 @@ body {
   height: 24px;
   -ms-flex-negative: 0;
       flex-shrink: 0;
-  background: url(/img/discover/down.svg);
+  background: url(../img/discover/down.svg);
 }
 .discover-block__filter_select:not(:first-child)::after:hover {
   opacity: 0.8;
@@ -1057,7 +1057,7 @@ body {
   height: 24px;
   -ms-flex-negative: 0;
       flex-shrink: 0;
-  background: url(/img/discover/sort-category.svg);
+  background: url(../img/discover/sort-category.svg);
 }
 @media (max-width: 600px) {
   .discover-block__filter_select {
